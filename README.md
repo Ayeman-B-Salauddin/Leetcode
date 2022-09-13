@@ -1,3 +1,5 @@
 # Leetcode 344 : Reverse String
 
-Live : https://leetcode-344.vercel.app/
+Check it out!
+
+https://leetcode-344.vercel.app/
